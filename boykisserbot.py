@@ -22,6 +22,12 @@ boykisser_links = [
     "https://tenor.com/view/boykisser-gif-8193399318768818300",
     "https://tenor.com/view/boy-kisser-boykisser-gif-7421460624716631752",
     "https://tenor.com/view/boykisser-you-like-kissing-boys-don%27t-you-cat-lowpoly-3d-gif-9960745507421464646",
+    "https://tenor.com/view/darkkolaa-blush-silly-cat-shy-love-gif-8011999271766564486",
+    "https://tenor.com/view/me-when-i-get-you-boykisser-gif-15629861713642818650",
+    "https://tenor.com/view/boykisser-gif-11014045691818866686",
+    "https://tenor.com/view/boykisser-gif-12267843187304617853",
+    "https://tenor.com/view/mauzimice-mauzymice-mauzy-mice-boykisser-cute-gif-16690839224429433467",
+    "https://tenor.com/view/shy-gif-27191515",
 ]
 
 other_links = [

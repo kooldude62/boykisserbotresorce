@@ -86,18 +86,14 @@ carrot_link = [
 ]
 
 teamQ0_links = [
-    "https://files.catbox.moe/5jxmu6.gif",
-    "https://files.catbox.moe/a8zsn1.gif",
-    "https://files.catbox.moe/9dwjjh.gif",
-    "https://files.catbox.moe/0xkmy7.gif",
-    "!!!! TEAM Q0 !!!!",
+    "<@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239> <@1134946488691204239>",
 ]
 
 print("=== [Boykisser Bot Menu] ===")
 print("1 - Spam Boykisser GIFs!")
 print("2 - Spam NSFW/Rule 34 [18+ WARNING]")
 print("3 - carrot")
-print("4 - Team Q0!")
+print("4 - Spam Ping [CHANGE THE TEXT THROUGH NOTEPAD]")
 choice = input("Choose (1/2/3/4): ").strip()
 
 if choice == "1":
@@ -107,7 +103,7 @@ elif choice == "2":
 elif choice == "3":
     links = carrot_link
 elif choice == "4":
-    links = teamQ0_links
+    links = SpamPing_Text
 else:
     print("Invalid choice. Defaulting to Boykisser GIFs.")
     links = boykisser_links

@@ -45,6 +45,21 @@ boykisser_links = [
     "You like boys don't you?",
     "You like boys don't you?",
     "You like boys don't you?",
+    "https://tenor.com/view/boykisser-gif-17337070286879071820",
+    "https://tenor.com/view/boykisser-gif-4190987188204170979",
+    "https://tenor.com/view/boykisser-gif-15979954803548640703",
+    "https://tenor.com/view/yayy-boykisser-blush-gif-3706901676619920417",
+    "https://tenor.com/view/boykisser-dance-gif-13953661362664316567",
+    "https://tenor.com/view/boykisser-kisser-of-boys-boy-kisser-i-know-what-you-are-i-do-know-what-you-are-gif-4872465454187401382",
+    "https://tenor.com/view/boykisser-spinning-mauzymice-you-like-kissing-boys-spinning-boykisser-gif-7295669094681663437",
+    "https://tenor.com/view/boykisser-ferbreze-gif-11004534701203359918",
+    "https://cdn.discordapp.com/attachments/1411505117001158656/1411715598412419122/bananahub.gif?ex=68b5aa1b&is=68b4589b&hm=de131d12ee1ba1b8d519f081b95a6a22704ddaaa2db83dabc43f9f2deff4787c&",
+    "https://media.tenor.com/WxknM1oyJskAAAAC/boykisser.gif",
+    "https://i.redd.it/zs4klpmbv3bb1.gif",
+    "https://c.tenor.com/yQVpHeHFVGkAAAAC/tenor.gif",
+    "https://c.tenor.com/UCN2UdY5068AAAAC/tenor.gif",
+    "https://i.redd.it/aac2vd81hw8c1.gif",
+    "https://uploads-cdn.raddle.me/submission_images/5dba40b9188d018b22775e13ebb1e4812eb9f38db6eebd9b8714e50c30993409.gif",
 ]
 
 other_links = [

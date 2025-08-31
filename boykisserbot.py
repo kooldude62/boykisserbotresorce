@@ -38,6 +38,13 @@ boykisser_links = [
     "https://tenor.com/view/boykisser-gif-8527141002887319110",
     "https://tenor.com/view/boy-kisser-shy-blushing-gif-7763375073443922909",
     "https://tenor.com/view/boykisser-kissingboys-i-found-i-found-boys-i-found-boys-to-kiss-gif-7752772126703083663",
+    "https://tenor.com/view/boys-kiss-boys-kissing-boykisser-mauzy-mauzymice-gif-7128191481398927136",
+    "You like boys don't you?",
+    "You like boys don't you?",
+    "You like boys don't you?",
+    "You like boys don't you?",
+    "You like boys don't you?",
+    "You like boys don't you?",
 ]
 
 other_links = [

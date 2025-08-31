@@ -21,6 +21,7 @@ boykisser_links = [
     "https://tenor.com/view/boykisser-gif-6999847418031861810",
     "https://tenor.com/view/boykisser-gif-8193399318768818300",
     "https://tenor.com/view/boy-kisser-boykisser-gif-7421460624716631752",
+    "https://tenor.com/view/boykisser-you-like-kissing-boys-don%27t-you-cat-lowpoly-3d-gif-9960745507421464646",
 ]
 
 other_links = [

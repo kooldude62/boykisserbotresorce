@@ -28,6 +28,16 @@ boykisser_links = [
     "https://tenor.com/view/boykisser-gif-12267843187304617853",
     "https://tenor.com/view/mauzimice-mauzymice-mauzy-mice-boykisser-cute-gif-16690839224429433467",
     "https://tenor.com/view/shy-gif-27191515",
+    "https://tenor.com/view/happy-kisser-girlkisser-gif-15192169698232153093",
+    "https://tenor.com/view/boykisser-sparkle-eyes-wow-gif-602186094440905284",
+    "https://tenor.com/view/pat-headpat-pet-good-boy-good-girl-gif-6540666935796842807",
+    "https://tenor.com/view/n-no-boykisser-tail-gif-7038898079225597620",
+    "https://tenor.com/view/dance-with-me-boykisser-boy-kisser-caramelldansen-meow-gif-2293616212106288374",
+    "https://tenor.com/view/happy-boykisser-smile-gif-18088020230772935461",
+    "https://tenor.com/view/boykisser-kiss-kiss-gif-kissing-smooch-gif-14255811052713401590",
+    "https://tenor.com/view/boykisser-gif-8527141002887319110",
+    "https://tenor.com/view/boy-kisser-shy-blushing-gif-7763375073443922909",
+    "https://tenor.com/view/boykisser-kissingboys-i-found-i-found-boys-i-found-boys-to-kiss-gif-7752772126703083663",
 ]
 
 other_links = [

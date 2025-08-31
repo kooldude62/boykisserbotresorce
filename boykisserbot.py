@@ -63,11 +63,20 @@ carrot_link = [
     "https://cdn.discordapp.com/attachments/1304816521348124752/1305682263446519919/Carrot.gif?ex=68b4e0de&is=68b38f5e&hm=b60c447177b3a345bfb85c125b36aa1780b06c6f6df21fe0db63c718194ba9f6&"
 ]
 
+teamQ0_links = [
+    "https://files.catbox.moe/5jxmu6.gif",
+    "https://files.catbox.moe/a8zsn1.gif",
+    "https://files.catbox.moe/9dwjjh.gif",
+    "https://files.catbox.moe/0xkmy7.gif",
+    "!!!! TEAM Q0 !!!!",
+]
+
 print("=== [Boykisser Bot Menu] ===")
 print("1 - Spam Boykisser GIFs!")
 print("2 - Spam NSFW/Rule 34 [18+ WARNING]")
 print("3 - carrot")
-choice = input("Choose (1/2/3): ").strip()
+print("4 - Team Q0!")
+choice = input("Choose (1/2/3/4): ").strip()
 
 if choice == "1":
     links = boykisser_links
@@ -75,6 +84,8 @@ elif choice == "2":
     links = other_links
 elif choice == "3":
     links = carrot_link
+elif choice == "4":
+    links = teamQ0_links
 else:
     print("Invalid choice. Defaulting to Boykisser GIFs.")
     links = boykisser_links
